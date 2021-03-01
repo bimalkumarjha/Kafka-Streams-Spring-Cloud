@@ -2,6 +2,7 @@ package bimal.learning.examples.kafka.advertclicks;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.*
 
 @SpringBootApplication
 public class AdvertClicksApplication {
