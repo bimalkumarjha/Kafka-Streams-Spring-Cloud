@@ -45,3 +45,5 @@ btop3spots/src/main/java/bimal/learning/examples/kafka/top3spots/Services/ClickL
 dtop3spots/src/test/java/guru/learningjournal/examples/kafka/top3spots/Top3SpotsApplicationTests.java,3/7/37884d580e73d4fe6eb0b3f6c0e77ff3cf497896
 N
 Commands-used-in-section-1.txt,f/5/f56107802c6a8e84f94e8802c4fe4289b4c01da7
+Z
+*xmlbranching/practice-resources/sample.txt,e/1/e1aa8f71d54a8fd480d8c073bec260505c68728a

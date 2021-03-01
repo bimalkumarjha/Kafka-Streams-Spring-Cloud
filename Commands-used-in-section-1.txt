@@ -13,7 +13,7 @@ Installing JDK on Ubuntu
 	
 Configure your Windows terminal
 ---------------------------------
-	"startingDirectory": "\\\\wsl$\\Ubuntu-20.04\\home\\prashant"
+	"startingDirectory": "\\\\wsl$\\Ubuntu-20.04\\home\\bimal"
 	
 Copy your downloaded file to your Ubuntu home directory
 -----------------------------------------------------------
@@ -29,12 +29,12 @@ Untar the downloaded file
 	
 Setting the environment variables on windows.
 -------------------------------------------------
-	export CONFLUENT_HOME=/home/prashant/confluent-6.0.0
+	export CONFLUENT_HOME=/home/bimal/confluent-6.0.0
 	export PATH=$PATH:$CONFLUENT_HOME/bin
 	
 Setting the environment variable on Mac.
 ------------------------------------------	
-	export CONFLUENT_HOME=/Users/prashant/confluent-6.0.0
+	export CONFLUENT_HOME=/Users/bimal/confluent-6.0.0
 	export PATH=$PATH:$CONFLUENT_HOME/bin
 	
 Running Confluent services
